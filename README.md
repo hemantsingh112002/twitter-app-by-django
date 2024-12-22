@@ -1,2 +1,1 @@
-# djangoproject
-# twitter
+#twitter-app-by-django
